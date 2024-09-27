@@ -1,8 +1,7 @@
 <h1>Hi 👋, I'm Amin
 <img align="right" src="https://komarev.com/ghpvc/?username=aminiun&label=Profile%20views&color=0e75b6&style=flat" alt="aminiun" /></h1>
 
-- 🔭 I am a software engineer with advanced knowledge of Python/Django.
-- 🌱 I also have some knowledge about DevOps concepts and am actively working to improve in that area. :)
+- 🔭 I'm just trying to be a (good) software engineer.
 
 - 📫 Other Accounts: 
 <p align="center">
